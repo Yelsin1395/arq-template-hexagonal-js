@@ -1,0 +1,19 @@
+{
+  "name": "arq-template-hexagonal-ts",
+  "version": "1.0.0",
+  "description": "Skeleton for based on hexagonal architecture",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "JESUS YELSIN BROLY GARCIA RIVERA",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
